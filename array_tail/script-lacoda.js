@@ -1,7 +1,8 @@
 
-const btn =document. querySelector('.btn-primary')
-
-
+const btn = document. querySelector('.btn-primary')
+const btnNo = document. querySelector('.btn-danger')
+const lista = []
+console.log(lista)
 
 
 btn.addEventListener('click', function(){
@@ -17,14 +18,20 @@ btn.addEventListener('click', function(){
     numero= Math.round(Math.random()*99)+1;
     console.log(numero)
     lista.push (numero)
+    
     }
-  
+    for (i = lista.length - 5; i < lista.length; i++)
+    console.log(i)
+        
+    /*lista.slice(-5)
+    console.log (lista.slice(-5))*/
 
 })
 
 
 
-const lista = [
 
-]
-console.log(lista)
+
+    
+
+    
