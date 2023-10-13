@@ -16,5 +16,15 @@ btn.addEventListener('click', function(){
     let numero;
     numero= Math.round(Math.random()*99)+1;
     console.log(numero)
+    lista.push (numero)
     }
+  
+
 })
+
+
+
+const lista = [
+
+]
+console.log(lista)
