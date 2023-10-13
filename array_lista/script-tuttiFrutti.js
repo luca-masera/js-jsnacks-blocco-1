@@ -1,5 +1,5 @@
 
-const fruttaFrigo = [ 
+/*const fruttaFrigo = [ 
     'banana', 
     'mela', 
     'pera', 
@@ -37,6 +37,6 @@ if (flag === true){
 }else{
     write = "Oh no, devo uscire a comprare il cocomero!"
     console.log(write)
-}    
+}*/    
         
     
