@@ -1,7 +1,7 @@
 
 Esercizio del 13/10/2023: Gli array
 
-Consegna:
+<!--Consegna:
 1. TuttiFrutti
 Cartella array-lista
 Descrizione:
@@ -33,4 +33,4 @@ Crea due array che hanno un numero di elementi diversi.
 Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro.
 
 strumenti utilizzati:
-I due esercizi sono basati sull'argomento degli arrey, andremo principalemnte a uilizzare Javascript e successivamente html e boostrap per interagire con l'utente.
+I due esercizi sono basati sull'argomento degli arrey, andremo principalemnte a uilizzare Javascript e successivamente html e boostrap per interagire con l'utente.-->
