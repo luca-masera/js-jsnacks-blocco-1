@@ -24,19 +24,19 @@ for(let i = 0; i < fruttaFrigo.length; i++){
     
 
     
-    if(cocktail === 'cocomero'){
-        write = "Trovato! Devo solo preparare il cocktail."
+    if(cocktail === 'cocomero'){        
         flag = true;
-        console.log(write,flag); 
-       
+        console.log(flag);       
         
-    } else if (cocktail !=='cocomero'){
-        write = "Oh no, devo uscire a comprare il cocomero!"
-        
-        console.log(write);
-    }
-
-
-
+    } 
 }
 
+if (flag === true){
+    write = "Trovato! Devo solo preparare il cocktail."
+    console.log(write)
+}else{
+    write = "Oh no, devo uscire a comprare il cocomero!"
+    console.log(write)
+}    
+        
+    
